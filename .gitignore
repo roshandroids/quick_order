@@ -1,0 +1,59 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.pub-cache/
+.pub/
+build/
+coverage/
+generated_plugin_registrant.dart
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+macos/Pods/
+macos/build/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+
+# VS Code
+.vscode/
+# (Uncomment if you want to include VSCode project settings)
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Log & Temp Files
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Symbolication / Obfuscation / Crash Dumps
+*.symbols
+*.map.json
+
+# Others
+.env
+migrate_working_dir/
+.history
+
+# Generated docs
+doc/api/
+
+# Optional: Firebase related
+.firebase/
+firebase-debug.log
